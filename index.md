@@ -6,7 +6,13 @@
 
 ## Welcome to My Portfolio
 
-Hi, I'm Himani! I love web development, data analytics, and creative projects. 
+Welcome to my portfolio! I'm Himani, a passionate web developer and data analyst with a love for aesthetics and creative problem-solving. I have experience in teaching, data analytics, web development, and design. Here you'll find a showcase of my projects and ways to connect with me.
 
-- 🌱 Currently learning: Web development
+## About Me
+- 🎓 Graduate in Business Analytics, Mathematics, and Education
+- 👩‍🏫 Mathematics Instructor at Mathnasium
+- 🖥️ Currently learning: Web Development and Interaction Design
 - 💻 Skills: HTML, CSS, JavaScript, Python, SAS, Figma, Excel, and Tableau
+- 🎨 Creative hobbies: Dance, painting, and styling
+
+Explore my work and feel free to connect!
