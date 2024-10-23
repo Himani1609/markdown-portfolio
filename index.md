@@ -1,6 +1,6 @@
 # Himani Bansal
 
-[ABOUT](./index.md)  |  [CONTACT](./contact.md)  |  [PROJECTS](./project.mdproject)
+[ABOUT](./index.md)  |  [CONTACT](./contact.md)  |  [PROJECTS](./project.md)
 
 <img src="./images/photo.jpg" alt="Himani's Photo" width="300">
 
