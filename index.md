@@ -1,11 +1,11 @@
 # Himani Bansal
 
-[ABOUT](index)     [CONTACT](contact)         [PROJECTS](project)
+[ABOUT](index)     [CONTACT](contact)     [PROJECTS](project)
 
 # Back-End-Web-Development
 ## HTTP-5125
 
-<img src=./c%23.png alt="CSHARP" width="100" height="100">
+<img src=D:\Web_Development\markdown-portfolio\images\photo.jpg alt="Himani's Photo" width="100" height="100">
 
 This is repo of course HTTP-5125 Back-End Web Development. 
 This will include all the assignments, labs and any practice files related to this course.
