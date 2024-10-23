@@ -27,10 +27,12 @@ I’ve completed two C# assignments that demonstrate my programming skills and p
 - [C# Assignment 2](https://github.com/Himani1609/C-Sharp-Assignment-2)
 
 ## Project 7: Simple Website
-A basic website project showcasing web development skills. [View the website](https://himani1609.github.io/Simple-Website-Http5110/links.html)
+A basic website project showcasing web development skills. 
+- [View the website](https://himani1609.github.io/Simple-Website-Http5110/links.html)
 
 ## GitHub Profile in Readme.md
-Created Readme.md profile page for my GitHub [GitHub profile](https://github.com/Himani1609)
+Created Readme.md profile page for my GitHub.
+- [GitHub profile](https://github.com/Himani1609)
 
 ## Blog Page: Why Math is Crucial Today
 I’ve created a [View the Blog Page](https://himani1609.github.io/Blog-Page/) discussing the importance of mathematics in today’s world, covering real-life applications, career benefits, and why math skills are essential in various fields.
