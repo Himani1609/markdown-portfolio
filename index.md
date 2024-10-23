@@ -5,7 +5,7 @@
 # Back-End-Web-Development
 ## HTTP-5125
 
-<img src="./images/photo.jpg" alt="Himani's Photo" width="500" height="400">
+<img src="./images/photo.jpg" alt="Himani's Photo" width="300">
 
 This is repo of course HTTP-5125 Back-End Web Development. 
 This will include all the assignments, labs and any practice files related to this course.
