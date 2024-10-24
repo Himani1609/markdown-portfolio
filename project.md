@@ -5,6 +5,7 @@
 
 ### Project 1: Nykaa - TheBeautyBlunder App
 A cosmetic app designed intentionally to break interaction design principles, featuring a bright pink background, curvy fonts, poor contrast, and inconsistent layout. It serves as a fun example of what not to do in app design.
+- [View the Nykka - TheBeautyBlunder App](https://www.figma.com/design/kWKOKAff2g4zTus71GOT9E/Himani_Bansal-(Copy)?m=auto&t=BSZynbWj2huCD5jJ-6)
 
 ### Project 2: Dynamic Pricing Optimization for Airbnb
 An analysis project focusing on optimizing dynamic pricing strategies for Airbnb listings. The project involves data analysis techniques to maximize revenue while ensuring consumer trust and price stability.
